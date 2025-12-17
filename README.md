@@ -47,8 +47,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/murillog2002/murillog2002/output/snake.svg" alt="Snake animation" />
 
 ###
