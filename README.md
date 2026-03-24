@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279"  />
+  <img height="180" src="https://gemini.google.com/share/033c3402b467" />
 </div>
 
 ###
