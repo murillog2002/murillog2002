@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://gemini.google.com/share/033c3402b467" />
+  <img height="180" src="https://lh3.googleusercontent.com/gg/AMW1TPodRxT979f-2W7FFKATUAedgyaqOHGyWeo4bY3bXDihdOi3sNu02l02oM1pNERITjS5jr5vPXLuE9xJl8SUpfdm2i6_gbRkwgE5IWFXP7Lwb9QYMAF-znZFjwMRbj81y52_T-hFWNoCs9B_12j0wf0NCRdzdf4BGbd01tU0EJiayDLpIFd9=s1024-rj-mp2" />
 </div>
 
 ###
